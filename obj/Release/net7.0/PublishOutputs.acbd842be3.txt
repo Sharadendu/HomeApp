@@ -1,0 +1,1 @@
+D:\Projects\.NetCore\Blazor\WASM\HomeApp\release\web.config
